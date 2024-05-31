@@ -20,7 +20,7 @@
 # 📊 GitHub Stats:
 ![](https://readme.hufeisen-games.de/api?username=Hufeisen2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hufeisen2&theme=onedark&hide_border=true)<br/>
-![](https://readme.hufeisen-games.de/api/top-langs/?username=Hufeisen2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-8pr99c67l-hufeisens-projects.vercel.app/api/top-langs/?username=Hufeisen2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&role=OWNER,COLLABORATOR)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hufeisen2&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
