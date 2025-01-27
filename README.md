@@ -19,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://readme.hufeisen-games.de/api?username=Hufeisen2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=Hufeisen2&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-streak-stats-eight.vercel.app/?user=Hufeisen2&theme=onedark&hide_border=false)<br/>
 ![](https://readme.hufeisen-games.de/api/top-langs/?username=Hufeisen2&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&role=OWNER,COLLABORATOR&langs_count=6)
 
 ## 🏆 GitHub Trophies
